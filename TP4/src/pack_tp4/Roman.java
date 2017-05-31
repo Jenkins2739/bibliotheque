@@ -17,7 +17,6 @@ public class Roman extends Livre {
     @Override
     public String toString() {
         return ""+super.toString()+" Roman{" +
-                "prixLitteraire='" + prixLitteraire + '\'' +
-                '}';
+                "prixLitteraire='" + prixLitteraire + "'}";
     }
 }

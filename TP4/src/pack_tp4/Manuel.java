@@ -12,7 +12,7 @@ public class Manuel extends Livre {
 
     @Override
     public void imprimer() {
-        System.out.println("\nImprime ..."+this);
+        System.out.println("Imprime ..."+this);
     }
 
     @Override
